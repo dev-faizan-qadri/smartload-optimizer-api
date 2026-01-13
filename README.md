@@ -12,6 +12,8 @@
 - space: 0(n)
 
 ## How to run
+- git clone https://github.com/dev-faizan-qadri/smartload-optimizer-api.git
+- cd smartload-optimizer-api
 - docker compose up --build
 
 ## POST API
